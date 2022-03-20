@@ -82,5 +82,13 @@
 		"name": "懋和道人",
 		"description": "全真道名至臣，正壹道名和道，茅山道名懋和",
 		"github_username": "wulintang"
+	},
+		"16": {
+		"domain": "blog.zeruns.tech",
+		"icon": "https://blog.zeruns.tech/tx.jpg",
+		"name": "Zeruns 's Blog",
+		"description": "Zeruns的博客，分享技术和生活",
+		"github_username": "zeruns"
 	}
+	
 }
